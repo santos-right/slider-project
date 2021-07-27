@@ -1,2 +1,2 @@
 # slider-project
- slider show creted with html,css and javascript
+ slider show created with html,css and javascript
